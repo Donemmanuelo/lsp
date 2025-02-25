@@ -1,0 +1,1 @@
+/home/don/rust-programming/lsp/target/debug/lsp: /home/don/rust-programming/lsp/src/main.rs /home/don/rust-programming/lsp/src/rectangle.rs /home/don/rust-programming/lsp/src/square.rs /home/don/rust-programming/lsp/src/traits/form_data.rs /home/don/rust-programming/lsp/src/traits/mod.rs /home/don/rust-programming/lsp/src/traits/shape.rs
